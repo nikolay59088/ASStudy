@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="Universe">Университет</string>
+    <string name="group">Учебная группа</string>
+    <string name="Registration">Регистрация</string>
+    <string name="FirstName">Имя</string>
+    <string name="SecondName">Фамилия</string>
+    <string name="OK">OK</string>
+    <string name="author">Автор</string>
+    <string name="main">Главная</string>
+    <string name="schedule">Расписание</string>
+    <string name="profile">Профиль</string>
+    <string name="show">Показать</string>
+    <string name="hide">Скрыть</string>
+    <string name="action_settings">Настройки</string>
+    <string name="home">Главная</string>
+    <string name="contact">Контакты</string>
+    <string name="sign_in">Вход</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="age">Возраст</string>
+
+    #Дни недели
+    <string name="monday">ПН</string>
+    <string name="tuesday">ВТ</string>
+    <string name="wednesday">СР</string>
+    <string name="thursday">ЧТ</string>
+    <string name="friday">ПТ</string>
+    <string name="saturday">СБ</string>
+    <string name="sunday">ВС</string>
+</resources>
